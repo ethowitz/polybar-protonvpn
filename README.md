@@ -1,7 +1,7 @@
 ## Dependencies
 This script requires:
-    * [font awesome](https://fontawesome.com) to be specified in your polybar config
-    * The [Protonvpn Linux CLI](https://github.com/ProtonVPN/linux-cli)
+* [font awesome](https://fontawesome.com) to be specified in your polybar config
+* The [Protonvpn Linux CLI](https://github.com/ProtonVPN/linux-cli)
 
 ## Usage
 

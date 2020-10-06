@@ -8,6 +8,6 @@ then
   server=$(sed '4q;d' <<< $output | awk '{print $2}')
   echo " $server"
 else
-  echo ""
+  echo ""
 fi
 

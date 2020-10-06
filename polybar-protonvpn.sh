@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 output=$(protonvpn s)
 connection_status=$(head -n 1 <<< $output | awk '{print $2}')
